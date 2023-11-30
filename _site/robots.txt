@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://hhh-hyc.github.io/deep_learning/sitemap.xml
