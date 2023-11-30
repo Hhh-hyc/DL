@@ -3,7 +3,7 @@ const $btnRefresh = $('#notification .toast-body>button');
 
 if ('serviceWorker' in navigator) {
     /* Registering Service Worker */
-    navigator.serviceWorker.register('/deep_learning/sw.js')
+    navigator.serviceWorker.register('/DL/sw.js')
         .then(registration => {
 
             /* in case the user ignores the notification */

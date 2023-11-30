@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://hhh-hyc.github.io/deep_learning/</id>
+  <id>https://hhh-hyc.github.io/DL/</id>
   <title>Deep learning</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-11-30T14:46:43+00:00</updated>
+  <updated>2023-11-30T14:52:13+00:00</updated>
   <author>
     <name>YC</name>
-    <uri>https://hhh-hyc.github.io/deep_learning/</uri>
+    <uri>https://hhh-hyc.github.io/DL/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://hhh-hyc.github.io/deep_learning/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://hhh-hyc.github.io/DL/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://hhh-hyc.github.io/deep_learning/"/>
+    href="https://hhh-hyc.github.io/DL/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <rights> © 2023 YC </rights>
-  <icon>/deep_learning/assets/img/favicons/favicon.ico</icon>
-  <logo>/deep_learning/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/DL/assets/img/favicons/favicon.ico</icon>
+  <logo>/DL/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>The family of RNN</title>
-    <link href="https://hhh-hyc.github.io/deep_learning/posts/the-family-of-rnn/" rel="alternate" type="text/html" title="The family of RNN" />
+    <link href="https://hhh-hyc.github.io/DL/posts/the-family-of-rnn/" rel="alternate" type="text/html" title="The family of RNN" />
     <published>2023-10-31T00:00:00+00:00</published>
   
     <updated>2023-10-31T00:00:00+00:00</updated>
   
-    <id>https://hhh-hyc.github.io/deep_learning/posts/the-family-of-rnn/</id>
-    <content src="https://hhh-hyc.github.io/deep_learning/posts/the-family-of-rnn/" />
+    <id>https://hhh-hyc.github.io/DL/posts/the-family-of-rnn/</id>
+    <content src="https://hhh-hyc.github.io/DL/posts/the-family-of-rnn/" />
     <author>
       <name>YC</name>
     </author>
@@ -55,13 +55,13 @@
   
   <entry>
     <title>Technical tips</title>
-    <link href="https://hhh-hyc.github.io/deep_learning/posts/technical-tips/" rel="alternate" type="text/html" title="Technical tips" />
+    <link href="https://hhh-hyc.github.io/DL/posts/technical-tips/" rel="alternate" type="text/html" title="Technical tips" />
     <published>2023-10-28T00:00:00+00:00</published>
   
     <updated>2023-10-28T00:00:00+00:00</updated>
   
-    <id>https://hhh-hyc.github.io/deep_learning/posts/technical-tips/</id>
-    <content src="https://hhh-hyc.github.io/deep_learning/posts/technical-tips/" />
+    <id>https://hhh-hyc.github.io/DL/posts/technical-tips/</id>
+    <content src="https://hhh-hyc.github.io/DL/posts/technical-tips/" />
     <author>
       <name>YC</name>
     </author>
