@@ -1,41 +1,41 @@
 const resource = [
   /* --- CSS --- */
-  '/deep_learning/assets/css/jekyll-theme-chirpy.css',
+  '/DL/assets/css/jekyll-theme-chirpy.css',
 
   /* --- PWA --- */
-  '/deep_learning/app.js',
-  '/deep_learning/sw.js',
+  '/DL/app.js',
+  '/DL/sw.js',
 
   /* --- HTML --- */
-  '/deep_learning/index.html',
-  '/deep_learning/404.html',
+  '/DL/index.html',
+  '/DL/404.html',
 
   
-    '/deep_learning/categories/',
+    '/DL/categories/',
   
-    '/deep_learning/tags/',
+    '/DL/tags/',
   
-    '/deep_learning/archives/',
+    '/DL/archives/',
   
-    '/deep_learning/about/',
+    '/DL/about/',
   
 
   /* --- Favicons & compressed JS --- */
   
   
-    '/deep_learning/assets/img/favicons/android-chrome-192x192.png',
-    '/deep_learning/assets/img/favicons/android-chrome-512x512.png',
-    '/deep_learning/assets/img/favicons/apple-touch-icon.png',
-    '/deep_learning/assets/img/favicons/favicon-16x16.png',
-    '/deep_learning/assets/img/favicons/favicon-32x32.png',
-    '/deep_learning/assets/img/favicons/favicon.ico',
-    '/deep_learning/assets/img/favicons/mstile-150x150.png',
-    '/deep_learning/assets/js/dist/categories.min.js',
-    '/deep_learning/assets/js/dist/commons.min.js',
-    '/deep_learning/assets/js/dist/home.min.js',
-    '/deep_learning/assets/js/dist/misc.min.js',
-    '/deep_learning/assets/js/dist/page.min.js',
-    '/deep_learning/assets/js/dist/post.min.js'
+    '/DL/assets/img/favicons/android-chrome-192x192.png',
+    '/DL/assets/img/favicons/android-chrome-512x512.png',
+    '/DL/assets/img/favicons/apple-touch-icon.png',
+    '/DL/assets/img/favicons/favicon-16x16.png',
+    '/DL/assets/img/favicons/favicon-32x32.png',
+    '/DL/assets/img/favicons/favicon.ico',
+    '/DL/assets/img/favicons/mstile-150x150.png',
+    '/DL/assets/js/dist/categories.min.js',
+    '/DL/assets/js/dist/commons.min.js',
+    '/DL/assets/js/dist/home.min.js',
+    '/DL/assets/js/dist/misc.min.js',
+    '/DL/assets/js/dist/page.min.js',
+    '/DL/assets/js/dist/post.min.js'
 ];
 
 /* The request url with below domain will be cached */

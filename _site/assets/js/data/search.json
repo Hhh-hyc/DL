@@ -2,7 +2,7 @@
   
   {
     "title": "The family of RNN",
-    "url": "/deep_learning/posts/the-family-of-rnn/",
+    "url": "/DL/posts/the-family-of-rnn/",
     "categories": "Time-series",
     "tags": "RNNs, LSTMs, GRU, Bi-LSTMs",
     "date": "2023-10-31 00:00:00 +0000",
@@ -19,7 +19,7 @@
   
   {
     "title": "Technical tips",
-    "url": "/deep_learning/posts/technical-tips/",
+    "url": "/DL/posts/technical-tips/",
     "categories": "Pre-requisites",
     "tags": "tips",
     "date": "2023-10-28 00:00:00 +0000",
